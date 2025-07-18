@@ -1,1 +1,1 @@
-# genai
+# Gen AI Lab Programs
